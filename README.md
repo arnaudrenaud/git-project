@@ -8,3 +8,7 @@ Il a été inventé pour soutenir le développement de Linux.
 ### Commit
 
 Un _commit_ ("enregistrement") est une unité de travail qui contient des ajouts et des suppressions.
+
+### Branch
+
+Une branche est un pointeur vers un commit. Les branches permettent de travailler sur plusieurs variantes du projet en parallèle.
