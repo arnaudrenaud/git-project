@@ -11,4 +11,4 @@ Un _commit_ ("enregistrement") est une unité de travail qui contient des ajouts
 
 ### Branch
 
-Une branche est un pointeur vers un commit. Les branches permettent de travailler sur plusieurs variantes du projet en parallèle.
+Une branche est un alias vers un commit. Les branches permettent de travailler sur plusieurs variantes du projet en parallèle.
